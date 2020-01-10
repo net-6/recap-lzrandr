@@ -9,3 +9,14 @@ C:\Users\andrei.lazar\source\repos\w5recap\w5recap\obj\Debug\netcoreapp3.0\w5rec
 C:\Users\andrei.lazar\source\repos\w5recap\w5recap\obj\Debug\netcoreapp3.0\w5recap.AssemblyInfo.cs
 C:\Users\andrei.lazar\source\repos\w5recap\w5recap\obj\Debug\netcoreapp3.0\w5recap.dll
 C:\Users\andrei.lazar\source\repos\w5recap\w5recap\obj\Debug\netcoreapp3.0\w5recap.pdb
+D:\GIT\recap-lzrandr\w5recap\w5recap\bin\Debug\netcoreapp3.0\w5recap.exe
+D:\GIT\recap-lzrandr\w5recap\w5recap\bin\Debug\netcoreapp3.0\w5recap.deps.json
+D:\GIT\recap-lzrandr\w5recap\w5recap\bin\Debug\netcoreapp3.0\w5recap.runtimeconfig.json
+D:\GIT\recap-lzrandr\w5recap\w5recap\bin\Debug\netcoreapp3.0\w5recap.runtimeconfig.dev.json
+D:\GIT\recap-lzrandr\w5recap\w5recap\bin\Debug\netcoreapp3.0\w5recap.dll
+D:\GIT\recap-lzrandr\w5recap\w5recap\bin\Debug\netcoreapp3.0\w5recap.pdb
+D:\GIT\recap-lzrandr\w5recap\w5recap\obj\Debug\netcoreapp3.0\w5recap.csprojAssemblyReference.cache
+D:\GIT\recap-lzrandr\w5recap\w5recap\obj\Debug\netcoreapp3.0\w5recap.AssemblyInfoInputs.cache
+D:\GIT\recap-lzrandr\w5recap\w5recap\obj\Debug\netcoreapp3.0\w5recap.AssemblyInfo.cs
+D:\GIT\recap-lzrandr\w5recap\w5recap\obj\Debug\netcoreapp3.0\w5recap.dll
+D:\GIT\recap-lzrandr\w5recap\w5recap\obj\Debug\netcoreapp3.0\w5recap.pdb

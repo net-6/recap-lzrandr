@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andrei.lazar\\source\\repos\\w5recap\\w5recap\\w5recap.csproj": {}
+    "D:\\GIT\\recap-lzrandr\\w5recap\\w5recap\\w5recap.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andrei.lazar\\source\\repos\\w5recap\\w5recap\\w5recap.csproj": {
+    "D:\\GIT\\recap-lzrandr\\w5recap\\w5recap\\w5recap.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andrei.lazar\\source\\repos\\w5recap\\w5recap\\w5recap.csproj",
+        "projectUniqueName": "D:\\GIT\\recap-lzrandr\\w5recap\\w5recap\\w5recap.csproj",
         "projectName": "w5recap",
-        "projectPath": "C:\\Users\\andrei.lazar\\source\\repos\\w5recap\\w5recap\\w5recap.csproj",
+        "projectPath": "D:\\GIT\\recap-lzrandr\\w5recap\\w5recap\\w5recap.csproj",
         "packagesPath": "C:\\Users\\andrei.lazar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andrei.lazar\\source\\repos\\w5recap\\w5recap\\obj\\",
+        "outputPath": "D:\\GIT\\recap-lzrandr\\w5recap\\w5recap\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andrei.lazar\\AppData\\Roaming\\NuGet\\NuGet.Config",
