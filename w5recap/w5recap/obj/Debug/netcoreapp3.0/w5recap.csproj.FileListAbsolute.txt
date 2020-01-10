@@ -1,0 +1,11 @@
+C:\Users\andrei.lazar\source\repos\w5recap\w5recap\bin\Debug\netcoreapp3.0\w5recap.exe
+C:\Users\andrei.lazar\source\repos\w5recap\w5recap\bin\Debug\netcoreapp3.0\w5recap.deps.json
+C:\Users\andrei.lazar\source\repos\w5recap\w5recap\bin\Debug\netcoreapp3.0\w5recap.runtimeconfig.json
+C:\Users\andrei.lazar\source\repos\w5recap\w5recap\bin\Debug\netcoreapp3.0\w5recap.runtimeconfig.dev.json
+C:\Users\andrei.lazar\source\repos\w5recap\w5recap\bin\Debug\netcoreapp3.0\w5recap.dll
+C:\Users\andrei.lazar\source\repos\w5recap\w5recap\bin\Debug\netcoreapp3.0\w5recap.pdb
+C:\Users\andrei.lazar\source\repos\w5recap\w5recap\obj\Debug\netcoreapp3.0\w5recap.csprojAssemblyReference.cache
+C:\Users\andrei.lazar\source\repos\w5recap\w5recap\obj\Debug\netcoreapp3.0\w5recap.AssemblyInfoInputs.cache
+C:\Users\andrei.lazar\source\repos\w5recap\w5recap\obj\Debug\netcoreapp3.0\w5recap.AssemblyInfo.cs
+C:\Users\andrei.lazar\source\repos\w5recap\w5recap\obj\Debug\netcoreapp3.0\w5recap.dll
+C:\Users\andrei.lazar\source\repos\w5recap\w5recap\obj\Debug\netcoreapp3.0\w5recap.pdb
